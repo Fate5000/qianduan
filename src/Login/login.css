@@ -1,0 +1,38 @@
+.h1{
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:500px;  
+
+    padding: 0;
+    margin: 0;
+    background:url(./10.jpg) 0 0 no-repeat scroll transparent;
+background-size:cover;
+} 
+.login{
+    line-height: 60px;
+    position: absolute;
+    width:500px;
+    height: 400px;
+    top:25%;
+    left:40%;
+    margin-left:-50px;
+    margin-top:-25px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.a1{
+    line-height: 150px;
+}
+
+.a2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.a3{
+    display: flex;
+    justify-content: space-around;
+}

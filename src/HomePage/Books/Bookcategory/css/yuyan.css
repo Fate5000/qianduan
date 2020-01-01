@@ -1,0 +1,16 @@
+.h5{height: 795px;
+    padding: 0;
+    margin: 0;
+    background:url(./3.jpeg) 0 0 no-repeat scroll transparent;
+background-size:cover;
+}
+.h{
+    text-align: center;
+    font-style: italic;
+    font-size: 2.5em;
+}
+
+.y{
+    text-align: center;
+    font-size: 1.5em;
+}

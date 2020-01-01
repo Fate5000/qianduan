@@ -1,0 +1,38 @@
+.header{
+    border: 1px solid rgb(252, 252, 253);
+    width: 760px;
+    height: 680px;
+    position: absolute;
+    right: 580px;
+    bottom: 80px;
+    text-align: center;
+}
+.h1{
+    font-size:90px;
+    height: 100px;
+    text-align: center;
+}
+.h2{
+    font-size: 60px;
+    position: absolute;
+    right: 320px;
+    top: 20px;
+}
+.input {
+    position: absolute;
+    right: 140px;
+    bottom: 250px;
+}
+.button{
+    width: 50%;
+    height: 50px;
+    font-size: 40px;
+    position: absolute;
+    right: 200px;
+    bottom: 150px;
+}
+.h3{
+    height: 60px;
+    font-size: 40px;
+    text-align: center;
+}

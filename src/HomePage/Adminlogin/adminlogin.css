@@ -1,0 +1,17 @@
+.adminlogin{
+    font-size: 2em;
+    text-align: center;
+    background: url('./11.jpeg');
+    height: 655px;
+}
+.h1{
+    position: absolute;
+    width:500px;
+    height: 400px;
+    top:35%;
+    left:36%;
+    margin-left:-25px;
+    margin-top:-50px;
+    text-align: center;
+    font-size: 1.5em;
+}

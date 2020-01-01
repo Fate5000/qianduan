@@ -1,0 +1,24 @@
+.header{
+   width: 100%;
+   height:50px;
+   text-align: center;
+   font-size: 1em; 
+}
+
+.table{
+
+    width:55%;
+    height: 50%;
+   line-height: 30px;
+   float: left;
+   margin-top: 20px ;
+   margin-left: 250px;
+    background-color: papayawhip;
+}
+
+.Button{
+    width: 20%;
+    height:50px;
+    justify-content: space-around;
+    margin: 155px 755px ;
+}
